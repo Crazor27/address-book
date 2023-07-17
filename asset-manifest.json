@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/address-book/static/css/main.073c9b0a.css",
-    "main.js": "/address-book/static/js/main.e19ca922.js",
+    "main.js": "/address-book/static/js/main.5d336d40.js",
     "static/js/787.6721cdb3.chunk.js": "/address-book/static/js/787.6721cdb3.chunk.js",
     "static/media/logo.svg": "/address-book/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/address-book/index.html",
     "main.073c9b0a.css.map": "/address-book/static/css/main.073c9b0a.css.map",
-    "main.e19ca922.js.map": "/address-book/static/js/main.e19ca922.js.map",
+    "main.5d336d40.js.map": "/address-book/static/js/main.5d336d40.js.map",
     "787.6721cdb3.chunk.js.map": "/address-book/static/js/787.6721cdb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e19ca922.js"
+    "static/js/main.5d336d40.js"
   ]
 }
